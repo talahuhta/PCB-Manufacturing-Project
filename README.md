@@ -19,7 +19,7 @@ This also required getting the solder mask layer and creating a silk screen laye
 
 The components for the circuit:
 
-<img src="/pictures/components.jpg" width="400">
+<img src="/pictures/components.jpeg" width="400">
 
 
 ## Manufacturing Process
@@ -28,7 +28,7 @@ The components for the circuit:
 
 #### Setting the material
 
-<img src="/pictures/Adjuster.jpg" width="400">
+<img src="/pictures/adjuster.jpeg" width="400">
 
 For the milling process we needed to set up the copper plate in the mill. The mill has a vacuum feature that sucks the plate into the platform once it starts milling. The user just needs to tape the copper plate to stop additional movement. The material we had available was one sided FR-4.
 
@@ -55,13 +55,13 @@ After the setup process we just had to keep watch over the machine. This was mai
 
 ### Printing:
 
-<img src="/pictures/Alcohol.jpg" width="400">
+<img src="/pictures/alcohol.jpeg" width="400">
 
 Before printing a protective coating we cleaned up the pcb with isopropyl alcohol. After that we set up a piece of A4 in the UV inkjet printer we had. First we printed an edge cut rectangle where we could put the pcb. This was essentially a way to tell the machine where the pcb was. We added the silkscreen layer on top of the edge cut drawing so we could get the alignment right for the pcb.
 
-<img src="/pictures/pdf.jpg" width="400">
+<img src="/pictures/pdf.jpeg" width="400">
 
-<img src="/pictures/printersoftware.jpg" width="400">
+<img src="/pictures/printersoftware.jpeg" width="400">
 
 Inside the software we told the printer to add a white layer under the black coating so that the resulting coating has the right coloring. The first time we printed without the silkscreen in the edge cut and our board was flipped so the coating failed. We learnt from our mistakes and the second time was successful.
 
