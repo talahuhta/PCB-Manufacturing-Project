@@ -1,5 +1,5 @@
 # PCB-Manufacturing-Project
-<img src="/pictures/Testing1.jpg" width="600">
+<img src="/pictures/Testing3.jpg" width="600">
 
 ## Overview
 The primary goal of this project was to learn the practical process of creating a simple PCB from the design to the finished working device. It is based on the theory learned in the Introduction to Electronics course offered at the University of Oulu and manufactured at the university Fab Lab.
