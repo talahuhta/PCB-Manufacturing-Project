@@ -5,7 +5,7 @@ The primary goal of this project was to learn the practical process of creating 
 The device itself is a very simple circuit utilizing oscilation function of the 555 timer IC to modulate the frequency of a piezo electric buzzer by adjusting a potentiometer. The initial circuit diagram was provided by the course, however, everything else has been done from scratch including modifying the circuit to use the available Fab Lab components.
 
 ## Design
-![Circuit diagram](/pictures/Schematic.jpg)
+<img src="/pictures/Schematic.jpg" width="400">
 ## Manufacturing Process
 #### Setup:
 #### Milling:
