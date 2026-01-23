@@ -100,6 +100,7 @@ We then acquired a piezoelectric buzzer component and got it to work:
 
 <video width="320" height="240" controls>
   <source src="/pictures/testing.mp4" type="video/mp4">
+  s
 </video>
 
 The buzzer produced a pitch that seemed too high at some parts of the potentiometer’s range. This was due to us substituting a 33 nF capacitor with a 10 nF capacitor. We modified the circuit by resoldering a 100 nF capacitor in place of the 10 nF component. We found that this produced an audible pitch in all parts of the potentiometer’s range.
