@@ -1,4 +1,6 @@
 # PCB-Manufacturing-Project
+By Taneli Alahuhta and Runo Halonen
+
 <img src="/pictures/Testing3.jpg" width="600">
 
 ## Overview
